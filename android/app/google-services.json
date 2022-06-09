@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972473197200",
+    "firebase_url": "https://wallpaper-3fd4d.firebaseio.com",
+    "project_id": "wallpaper-3fd4d",
+    "storage_bucket": "wallpaper-3fd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972473197200:android:d8fc2bca69f05f7002ae15",
+        "android_client_info": {
+          "package_name": "com.monolith.studio.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972473197200-87hplemqasbeutdiel43d5fndpcn5158.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbmt1RmJSMVVvyBHUP-qrYgMQv_glQuNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972473197200-87hplemqasbeutdiel43d5fndpcn5158.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
